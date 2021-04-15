@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Code Reviews
 Here in this video you can see the codes that I looked through and what I planned to enhance
 
-
+https://github.com/bemoore711/bemoore711.github.io/blob/main/Code%20Review.mov
 
 ##  Artifact Enhancements
 
