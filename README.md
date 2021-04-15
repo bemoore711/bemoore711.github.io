@@ -1,8 +1,31 @@
+[Hash Table Enhancements1.docx](https://github.com/bemoore711/bemoore711.github.io/files/6317763/Hash.Table.Enhancements1.docx)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bemoore711/bemoore711.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Code Reviews
+Here in this video you can see the codes that I looked through and what I planned to enhance
+
+
+
+##  Artifact Enhancements
+
+Throughout the Computer Science Program at SNHU, I have worked on many different projects and For my Portfolio I decided to take three artifacts that I have worked on and added some enhancements to these artifacts Here are the Artifacts that I have enhanced.
+
+1.[CS 350 Enhancement.txt](https://github.com/bemoore711/bemoore711.github.io/files/6317650/CS.350.Enhancement.txt)
+
+2.[Hash Table Enhancements1.docx](https://github.com/bemoore711/bemoore711.github.io/files/6317764/Hash.Table.Enhancements1.docx)
+
+3.[NEW Queries for DAD 220.docx](https://github.com/bemoore711/bemoore711.github.io/files/6317738/NEW.Queries.for.DAD.220.docx)
+
+
+
+## Self Assessment
+
+
 
 ### Markdown
 
