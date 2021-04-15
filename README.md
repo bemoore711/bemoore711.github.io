@@ -17,7 +17,7 @@ Throughout the Computer Science Program at SNHU, I have worked on many different
 
 1.[CS 350 Enhancement.txt](https://github.com/bemoore711/bemoore711.github.io/files/6317650/CS.350.Enhancement.txt)
 
-2.[Hash Table Enhancements1.docx](https://github.com/bemoore711/bemoore711.github.io/files/6317764/Hash.Table.Enhancements1.docx)
+2.https://github.com/bemoore711/bemoore711.github.io/tree/main/Hash%20Table
 
 3.[NEW Queries for DAD 220.docx](https://github.com/bemoore711/bemoore711.github.io/files/6317738/NEW.Queries.for.DAD.220.docx)
 
