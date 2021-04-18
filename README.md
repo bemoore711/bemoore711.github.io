@@ -13,11 +13,12 @@ https://github.com/bemoore711/bemoore711.github.io/blob/main/Code%20Review.mov
 
 Throughout the Computer Science Program at SNHU, I have worked on many different projects and For my Portfolio I decided to take three artifacts that I have worked on and added some enhancements to these artifacts Here are the Artifacts that I have enhanced.
 
-1.[CS 350 Enhancement.txt](https://github.com/bemoore711/bemoore711.github.io/files/6317650/CS.350.Enhancement.txt)
+<a href=https://github.com/bemoore711/bemoore711.github.io/tree/main/Temp%20and%20Humidity%20Sensor>
+<img src="MISC/Temp and Humidity Sensor.png" width=200>
 
-2.https://github.com/bemoore711/bemoore711.github.io/tree/main/Hash%20Table
+<a href=https://github.com/bemoore711/bemoore711.github.io/tree/main/Hash%20Table> <img src ="MISC/Hash%20Table%20Pic.png" width=200>
 
-3.[NEW Queries for DAD 220.docx](https://github.com/bemoore711/bemoore711.github.io/files/6317738/NEW.Queries.for.DAD.220.docx)
+<a href=https://github.com/bemoore711/bemoore711.github.io/tree/main/SQL%20Queries> <img src="https://github.com/bemoore711/bemoore711.github.io/blob/main/MISC/SQL%20Queries.png" width=200>
 
 
 
