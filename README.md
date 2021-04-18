@@ -1,10 +1,8 @@
-[Hash Table Enhancements1.docx](https://github.com/bemoore711/bemoore711.github.io/files/6317763/Hash.Table.Enhancements1.docx)
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bemoore711/bemoore711.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to My ePortfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you will be able to look at some of the projects that I have worked on in the past and added enhancements to them. You will be able to watch my code review and understand the changes I planned to make for this class. Next you will find three artifacts that I performed the enhancement on. Followed up with a self assement on myself througout the Computer Science program here at SNHU.
 
 ## Code Reviews
 Here in this video you can see the codes that I looked through and what I planned to enhance
